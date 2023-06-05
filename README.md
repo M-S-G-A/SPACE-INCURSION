@@ -11,3 +11,5 @@ Only difference is that, here you can move along both the X and Y axes.
 To those who may want to know, the background music is "Kodama(Interlude)" by Nujabes.
 
 I'm a beginner so the game isn't really complete but still, have fun!
+
+To run the game, download the ZIP file, decompress it and run the executable file named "Space Incursion" (Space Incursion.exe)
